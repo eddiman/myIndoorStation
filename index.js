@@ -14,6 +14,7 @@ var auth = {
   "password": config.password,
 };
 
+
 app.post('/netatmo/api/allstations', function(req, res, next) {
 
   var api = new netatmo(auth);
