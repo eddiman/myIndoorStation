@@ -11,6 +11,8 @@
   "dependencies": {
     "body-parser": "^1.18.3",
     "express": "^4.16.4",
+    "firebase-admin": "^8.12.1",
+    "firebase-tools": "^8.4.2",
     "netatmo": "^2.2.2",
     "twilio": "^3.26.0"
   }
